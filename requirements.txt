@@ -1,0 +1,4 @@
+# fastapi[standard] inclut FastAPI + Uvicorn + outils utiles
+fastapi[standard]==0.136.1
+python-multipart==0.0.29
+
